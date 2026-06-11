@@ -137,4 +137,4 @@ Power BI dashboard to help the business make data-driven decisions.
 Aspiring Data Analyst with skills in SQL, Power BI, and Python basics.
 Currently working at Cognizant and transitioning into a data analyst role.
 
-📧 [Your Email] | 💼 [Your LinkedIn URL]
+📧 [kajaravi4023@gmail.com] | 💼 [linkedin.com/in/ravindra-kaja-835292222]
